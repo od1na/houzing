@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Houzing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is available on github [Houzing](https://github.com/od1na/houzing.git).
+# Can see the DEMO [Houzing](https://netlify.com/od1na/houzing.git).
 
 ## Available Scripts
 
